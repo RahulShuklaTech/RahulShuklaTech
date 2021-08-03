@@ -4,7 +4,9 @@
 
 Have a look at a few projects i have built recently.
 
---DevTalks: Social media for Technology enthusiasts | [Live Link] (https://determined-pike-9e5056.netlify.app/) | [Github Repo] (https://github.com/RahulShuklaTech/dev-talk-front)
+## DevTalks: Social media for Technology enthusiasts | [Live Link](https://determined-pike-9e5056.netlify.app/) | [Github Repo](https://github.com/RahulShuklaTech/dev-talk-front)
+---
+
 
 
 
