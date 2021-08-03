@@ -1,5 +1,3 @@
-                                  ** Experience is the name everyone gives to their mistakes.” – Oscar Wilde ** 
-
 👋 Hi, I’m Rahul shukla, I’m an independent full-stack web developer, who is passionate about bringing a client’s visions to life. I look at technology as a tool to make life easier for everyone, I have a good understanding of databases like MongoDB and Firebase, backend technologies like ExpressJs NodeJs. I love working on the front end with React, NextJs. I am passionate and open to learning new technologies in this field to stay on top of my game.
 
 Have a look at a few projects i have built recently.
@@ -53,6 +51,21 @@ The project is made to solve a unique challenge been faced by teachers during on
 
 #### Student View
 ![](./DevTalk/studentView.png)
+
+
+## Browse Movies | [Live Link](https://tender-roentgen-7191a9.netlify.app/) 
+Wanna see what movies are popular or what do you wanna watch next time you go out for a  movie night, you can watch movie trailers check IMDB information for the movies before you go.
+
+Based on information provided by **TMDB** movie database. The frontend is made in react.
+
+#### Front Page 
+![](./DevTalk/moviesFront.png)
+
+#### Movie Page 
+![](./DevTalk/moveChosen.png)
+
+
+
 
 
 
