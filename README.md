@@ -52,7 +52,7 @@ The project is made to solve a unique challenge been faced by teachers during on
 ![](./DevTalk/StudentAnswers.png)
 
 #### Student View
-![](./DevTalk/Students View.png)
+![](./DevTalk/studentView.png)
 
 
 
